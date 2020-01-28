@@ -1,5 +1,14 @@
 body{
-  background-color: #2c3e50;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+#busca{
+  padding: 0.625rem;
+}
+
+h3{
+  padding:0.7rem 0 0 0.7rem;
 }
 
 h4{
@@ -7,12 +16,7 @@ h4{
 }
 
 input{
-  width: 95%;
-}
-
-div .space-input{
-  padding-left: 2.375rem;
-
+  width: 100%;
 }
 
 .space-top{
@@ -33,3 +37,5 @@ div .space-input{
 .aparecer{
   display: block;
 }
+
+
